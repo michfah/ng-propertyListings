@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "type": "Semi-D",
+    "price": 320000,
+    "address": "9 Grattan Parade, D9",
+    "description": "Excellent place, really beautiful and quiet area!",
+    "details": {
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "area": 921 
+    },
+    "image":"crib1"
+  },
+  {
+    "id": 2,
+    "type": "Apt",
+    "price": 125500,
+    "address": "15 Hayworth Terrace, D15",
+    "description": "Beautiful home with lots of space for a large family.",
+    "details": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 2145 
+    },
+    "image":"crib2"
+  },
+  {
+    "id": 3,
+    "type": "House",
+    "price": 295000,
+    "address": "3 Rathmore Villas, D6W",
+    "description": "Great neighbourhood and lots of nice green space.",
+    "details": {
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 1500 
+    },
+    "image":"crib3"
+  },
+  {
+    "id": 4,
+    "type": "House",
+    "price": 955990,
+    "address": "83 Anglesea Rd, D4",
+    "description": "Majestic Georgian house in leafy area",
+    "details": {
+      "bedrooms": 6,
+      "bathrooms": 4.5,
+      "area": 3230 
+    },
+    "image":"crib4"
+  },
+  {
+    "id": 5,
+    "type": "Apt",
+    "price": 230500,
+    "address": "18 College House, D16",
+    "description": "Modern, spacious apartment in ideal location",
+    "details": {
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "area": 1023 
+    },
+    "image":"crib5"
+  },
+  {
+    "id": 6,
+    "type": "Semi-D",
+    "price": 334900,
+    "address": "7 Limehill Lawn, D14",
+    "description": "Comfortable, large semi detached house",
+    "details": {
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "area": 1788 
+    },
+    "image":"crib6"
+  }
+]
